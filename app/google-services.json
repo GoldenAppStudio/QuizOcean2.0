@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1005238533013",
+    "firebase_url": "https://quiz-ocean-2-default-rtdb.firebaseio.com",
+    "project_id": "quiz-ocean-2",
+    "storage_bucket": "quiz-ocean-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005238533013:android:1f74e994f5cac4caf7549c",
+        "android_client_info": {
+          "package_name": "studio.goldenapp.quiz_ocean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005238533013-meh1it4igdfhk9e6d0nceb36kiidhq27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "studio.goldenapp.quiz_ocean",
+            "certificate_hash": "e44ce57ba057e221f6ccc3dce35966485f1b12cf"
+          }
+        },
+        {
+          "client_id": "1005238533013-bgemntphbdl5hq9a2m9e1figkhn8v60p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9zM7YbOV5qd6Fco9psPFnqAD0N4Br8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005238533013-bgemntphbdl5hq9a2m9e1figkhn8v60p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
